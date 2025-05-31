@@ -1,6 +1,6 @@
 #Task 02
 
-**Simple Image Encryption Tool**
+Simple Image Encryption Tool
 This tool lets you hide an image by changing its colors using a secret number (key). You can also get the original image back using the same key.
 
 What You Need ?

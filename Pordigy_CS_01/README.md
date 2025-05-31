@@ -1,37 +1,37 @@
-#Task 01
+Task 1 
 
-# **Caesar Cipher - Encode & Decode Messages**
+Caesar Cipher — Encode & Decode Messages
 
-This is a simple Caesar Cipher encoder/decoder written in Python. 
-It allows users to encrypt (encode) or decrypt (decode) messages by shifting the alphabet.
+This project is a simple Python program that lets you hide or reveal messages using an old-school technique called the Caesar Cipher.
 
-## ️ **How It Works**
+What It Does:
+It works by shifting each letter in your message forward or backward in the alphabet by a number you choose.
+For example, if you shift the letter A by 2, it becomes C.
+If you shift Y by 2, it wraps around and becomes A.
 
-The program shifts each letter in your message forward or backward in the alphabet by a number you choose.
+How to Use It:
+When you run the program, it will guide you through:
 
-It loops until the user decides to exit.
+Choosing what to do:
+Type "encode" if you want to hide (encrypt) a message,
+or "decode" if you want to reveal (decrypt) one.
 
-## ️ **Usage**
+Entering your message:
+You type the message you want to encode or decode.
 
-Run the script.
+Choosing a shift number:
+For example, if you choose 3, the letters move 3 places.
 
-Choose:
+Seeing the result:
+The program shows the new message — either encoded or decoded.
 
-'encode' to encrypt a message.
+Continue or exit:
+You can do another one, or type "no" to quit.
 
-'decode' to decrypt a message.
-
-Enter your message.
-
-Enter the shift number (e.g., 3).
-
-Choose whether to continue or exit.
-
-**Example**
-
-Type your choice 'encode' or 'decode': encode
-Type your message: hello
-How many number to shift: 2
-The encoded message: jgnnq
-Type 'yes' to continue 'no' to exit: no
+ Example:
+Type your choice 'encode' or 'decode': encode  
+Type your message: hello  
+How many number to shift: 2  
+The encoded message: jgnnq  
+Type 'yes' to continue 'no' to exit: no  
 good bye
