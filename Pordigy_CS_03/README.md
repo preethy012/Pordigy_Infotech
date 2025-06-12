@@ -1,6 +1,8 @@
 Task 3
 
-Password Strength Checker — Summary
+Password Strength Checker 
+----------------------------------------------------------------------------------
+
 This project is a command-line tool that helps users create strong and secure passwords. It checks whether a password is good enough by looking at five key things:
 
 Is it long enough? (At least 8 characters)
@@ -16,6 +18,8 @@ Does it include special characters? (Like @, #, $, !)
 If a password is missing any of these things, the program gives clear feedback on how to improve it.
 
 The best part? It keeps asking the user to try again until they enter a very strong password that meets all the security rules. Once they do, it congratulates them and ends.
+
+----------------------------------------------------------------------------------
 
  Why it's useful:
 This tool is a great way to:

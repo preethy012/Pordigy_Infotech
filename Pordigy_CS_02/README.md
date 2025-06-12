@@ -1,13 +1,18 @@
 #Task 02
 
 Simple Image Encryption Tool
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 This tool lets you hide an image by changing its colors using a secret number (key). You can also get the original image back using the same key.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 What You Need ?
 Python installed on your computer
 
 Use Pillow library (for working with images)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
 How to Use?
 
 Put the image you want to encrypt in the project folder. Name it original.jpg.
@@ -18,6 +23,8 @@ The program will create two new images:
 encrypted.png (the hidden/encrypted image)
 
 decrypted.jpg (the original image restored)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 How It Works?
 

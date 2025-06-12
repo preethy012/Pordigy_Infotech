@@ -1,0 +1,1 @@
+task [Key.shift] $ [Key.backspace] 4 [Key.space] of [Key.space] pordigy [Key.shift_r] _infotech [Key.enter]  [Key.esc] 

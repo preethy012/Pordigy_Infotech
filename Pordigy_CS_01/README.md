@@ -1,13 +1,16 @@
 Task 1 
 
 Caesar Cipher — Encode & Decode Messages
-
+----------------------------------------------------------------------------------------------------------------------------------------------------
 This project is a simple Python program that lets you hide or reveal messages using an old-school technique called the Caesar Cipher.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
 What It Does:
 It works by shifting each letter in your message forward or backward in the alphabet by a number you choose.
 For example, if you shift the letter A by 2, it becomes C.
 If you shift Y by 2, it wraps around and becomes A.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 How to Use It:
 When you run the program, it will guide you through:
@@ -27,6 +30,8 @@ The program shows the new message — either encoded or decoded.
 
 Continue or exit:
 You can do another one, or type "no" to quit.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
  Example:
 Type your choice 'encode' or 'decode': encode  
