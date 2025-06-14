@@ -24,7 +24,7 @@ if user_input != "yes":
     print("Consent not provided. Exiting program.")
     exit()
 
-# Key press event
+
 def on_press(key):
     try:
         with open(log_file, "a") as f:
@@ -33,7 +33,6 @@ def on_press(key):
         with open(log_file, "a") as f:
             f.write(f" [{key}] ")
 
-# Key release event
 def on_release(key):
     if key == keyboard.Key.esc:
         print("\nLogging stopped by user (ESC pressed).")
@@ -41,6 +40,6 @@ def on_release(key):
 
 print("Consent accepted. Logging started... (Press ESC to stop)")
 
-# Start keylogger
-with keyboard.Listener(on_press=on_press, on_release=on_release) as listener:
+
+with keyboard.Listener(on_press=on_press,on_release=on_release) as listener:
     listener.join()

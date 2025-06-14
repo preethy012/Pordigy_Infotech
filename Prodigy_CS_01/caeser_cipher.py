@@ -25,7 +25,7 @@ while should_continue:
     message=input("Type your message: ").lower()
     shift=int(input("How many number to shift: "))
     encode(original_message=message,shift_number=shift)
-    restart=input("Type 'yes' to continue 'no' to exit: ").lower()
+    restart=input("Type e'yes' to continue 'no' to exit: ").lower()
     if restart=="no":
         should_continue=False
         print("good bye")
