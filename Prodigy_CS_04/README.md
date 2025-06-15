@@ -1,6 +1,6 @@
 #Task 4
 
-Basic Keylogger 
+Simple Keylogger 
 ---------------------------------------------------------------------------------
 This is a basic keylogger made with Python.
 

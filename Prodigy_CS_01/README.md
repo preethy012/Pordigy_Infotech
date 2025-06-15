@@ -1,6 +1,6 @@
 #Task 1 
 
-Caesar Cipher — Encode & Decode Messages
+Implement Caesar Cipher
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 This project is a simple Python program that lets you hide or reveal messages using an old-school technique called the Caesar Cipher.
 

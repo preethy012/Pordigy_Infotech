@@ -1,6 +1,6 @@
 #Task 3
 
-Password Strength Checker 
+Password Complexity Checker 
 ----------------------------------------------------------------------------------
 
 This project is a command-line tool that helps users create strong and secure passwords. It checks whether a password is good enough by looking at five key things:

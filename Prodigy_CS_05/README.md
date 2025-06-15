@@ -1,6 +1,6 @@
 #Task 5
 
-Simple Packet Sniffer 
+Network Packet Analyzer
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This is a basic network packet sniffer written in Python using the Scapy library. It’s a command-line tool that watches network traffic and shows you what’s happening behind the scenes on your computer's network.
